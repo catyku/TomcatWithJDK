@@ -1,0 +1,1 @@
+set JAVA_HOME=%cd%/../jdk-11.0.13+8-jre

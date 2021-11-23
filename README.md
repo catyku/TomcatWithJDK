@@ -3,6 +3,6 @@
 
 ## start 
 ```
-cd jdk11-tomcat9\bin
+cd jdk11-tomcat9\apache-tomcat-9.0.55\bin
 startup.bat
 ```
